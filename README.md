@@ -1,2 +1,2 @@
-# dakroub.me-v1
-Personal Site - V1
+# Website for Joe Dakroub - V1
+My personal site where I explored utility-based CSS (Tachyons) concepts.
